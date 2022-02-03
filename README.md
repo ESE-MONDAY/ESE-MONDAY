@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ESE-MONDAY
-- 👀 I’m a Reactjs front end developer 
-- 🌱 I’m currently learning solidity and smart contract development 
+- 👀 I’m a web3 frontend developer 
+- 🌱 I’m currently building solutions on the blockchain.
 - 💞️ I’m looking to collaborate on web development and smart contract development 
 - 📫 How to reach me email mondayese8@gmail.com
 
