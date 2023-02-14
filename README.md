@@ -1,8 +1,15 @@
 **Ese Monday** is a software engineer and technical writer with extensive knowledge of open source, blockchain, software products, and serverless technologies.
+
 - 👯 I'd like to work on more open source projects.
 
+
+
+
 - 💬 You can ask me questions on Web development, technical writing, Web3, blockchain, PWA, NodeJs, serverless technologies, open source, etc.
-- 📫 How to reach me:
+
+**Social Links 🔗**
+
+[Twitter](https://twitter.com/EseMonday1) | [LinkedIn](https://www.linkedin.com/in/ese-monday) | [Peerlist](https://peerlist.io/esemonday) 
 
 My Recent BlogPosts✍️
 - [A Comprehensive Guide to Understanding OOP Principles](https://ese-monday.hashnode.dev/a-comprehensive-guide-to-understanding-oop-principles-encapsulation-abstraction-polymorphism-and-inheritance)
