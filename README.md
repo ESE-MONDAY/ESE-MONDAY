@@ -1,9 +1,6 @@
 **Ese Monday** is a software engineer and technical writer with extensive knowledge of open source, blockchain, software products, and serverless technologies.
 
-- 👯 I'd like to work on more open source projects.
-
-
-
+- 👯 I am open to contributing to more open-source projects.
 
 - 💬 You can ask me questions on Web development, technical writing, Web3, blockchain, PWA, NodeJs, serverless technologies, open source, etc.
 
