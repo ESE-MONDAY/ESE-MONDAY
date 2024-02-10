@@ -3,7 +3,10 @@
 - 👯 I am open to contributing to more open-source projects.
 
 - 💬 You can ask me questions on Web development, technical writing, Web3, blockchain, PWA, NodeJs, serverless technologies, open source, etc.
+  
+  [My Portfolio](https://www.esemonday.study/)
 
+  
 **Social Links 🔗**
 
 [Twitter](https://twitter.com/EseMonday1) | [LinkedIn](https://www.linkedin.com/in/ese-monday) | [Peerlist](https://peerlist.io/esemonday) 
@@ -11,7 +14,9 @@
 My Recent BlogPosts✍️
 - [A Comprehensive Guide to Understanding OOP Principles](https://ese-monday.hashnode.dev/a-comprehensive-guide-to-understanding-oop-principles-encapsulation-abstraction-polymorphism-and-inheritance)
 - [CSS Reset: The Importance of Starting with a Clean Slate](https://ese-monday.hashnode.dev/css-reset-the-importance-of-starting-with-a-clean-slate)
+- [Managing Cookies and Ensuring User Privacy Compliance](https://ese-monday.hashnode.dev/managing-cookies-and-ensuring-user-privacy-compliance)
 <a href="https://www.buymeacoffee.com/esemonday" target="_blank" rel="noreferrer">
+
 
 
 
