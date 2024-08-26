@@ -15,6 +15,8 @@ My Recent BlogPosts✍️
 - [A Comprehensive Guide to Understanding OOP Principles](https://ese-monday.hashnode.dev/a-comprehensive-guide-to-understanding-oop-principles-encapsulation-abstraction-polymorphism-and-inheritance)
 - [CSS Reset: The Importance of Starting with a Clean Slate](https://ese-monday.hashnode.dev/css-reset-the-importance-of-starting-with-a-clean-slate)
 - [Managing Cookies and Ensuring User Privacy Compliance](https://ese-monday.hashnode.dev/managing-cookies-and-ensuring-user-privacy-compliance)
+- [Intro to web3 for web developers](https://ese-monday.hashnode.dev/intro-to-web3js-a-deep-dive-for-web-developers)
+- [Design Systems for frontend developers](https://ese-monday.hashnode.dev/taking-your-frontend-development-skill-to-the-next-level-with-design-systems)
 <a href="https://www.buymeacoffee.com/esemonday" target="_blank" rel="noreferrer">
 
 
