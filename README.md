@@ -4,7 +4,7 @@
 
 - 💬 You can ask her questions on Web development, technical writing, Web3, blockchain, PWA, NodeJs, cloud technologies, open source, etc.
   
-  [My Portfolio](https://www.esemonday.study/)
+  [My Portfolio](https://www.esemonday.xyz/)
 
   
 **Social Links 🔗**
