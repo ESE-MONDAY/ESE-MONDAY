@@ -1,4 +1,4 @@
-**Ese Monday** is a Developer Relations Engineer and technical writer with extensive knowledge of open source, blockchain, software products, and cloud technologies.
+**Ese Monday** is a Software Enginerr and and technical writer with extensive knowledge of open source, blockchain, software products, and cloud technologies.
 
 - 👯 She is open to contributing to more open-source projects.
 
