@@ -1,4 +1,4 @@
-**Ese Monday** is a Software Engineer | Building Scalable Web3 & AI Interfaces | React, TypeScript, Next.js with extensive knowledge of open source, blockchain, software products, and cloud technologies.
+**Ese Monday** is a Software Engineer |Frontend & payments/infra engineer building scalable interfaces and integrations with seamless UX
 
 - 👯 She is open to contributing to more open-source projects.
 
