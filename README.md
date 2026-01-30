@@ -1,4 +1,4 @@
-**Ese Monday** is a Software Engineer |Frontend & payments/infra engineer building scalable interfaces and integrations with seamless UX
+**Ese Monday** is a Product-minded infrastructure engineer who builds payment, platform, and agent systems at the boundary of frontend, backend, and APIs.
 
 - 👯 She is open to contributing to more open-source projects.
 
