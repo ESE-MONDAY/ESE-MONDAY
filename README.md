@@ -1,43 +1,28 @@
+# Hi, I'm Ese Monday
 
+I am a backend engineer and technical writer. I design scalable payment systems, platform architectures, and decentralized developer tools. My work focuses on building clean, modular backends and creating resources that help other developers build safely.
 
-# Hi, I'm Ese Monday 
+### Technical Stack
+* **Backend & Languages:** Go (Golang), Node.js, TypeScript
+* **Database & Infrastructure:** PostgreSQL, Prisma, Modular Monoliths, Docker Compose
+* **Web3 & Blockchain:** Solidity (Smart Contracts), Flare Network, EVM Integration
 
-**Infrastructure Engineer | Web3 Developer Relations | Backend Specialist**
+### Engineering Practices I Follow
+* **Idiomatic Go:** Moving beyond basic CRUD to build clean backend structures with explicit unit testing and code coverage tracking (`go test -cover`).
+* **Production Readiness:** Ensuring all my projects spin up via localized container environments and clear automation scripts for fast verification.
+* **Developer Advocacy:** Designing regional adoption campaigns and writing deep-dive documentation to accelerate Web3 onboarding across Africa.
 
-I bridge the gap between complex infrastructure and product-ready systems. Currently, I focus on building scalable payment gateways, platform architectures, and decentralized agent systems. My work lives at the intersection of **EVM-compatible blockchains**, **high-performance backends**, and **developer experience**.
+### Technical Content & Code Walkthroughs
+I break down complex concepts into actionable, production-ready implementation guides:
 
+*  [**Deep Dive: Intro to Web3 for Developers**](https://ese-monday.hashnode.dev/intro-to-web3js-a-deep-dive-for-web-developers) – Transitioning from Web2 to decentralized architecture.
+*  [**Mastering OOP Principles**](https://ese-monday.hashnode.dev/a-comprehensive-guide-to-understanding-oop-principles-encapsulation-abstraction-polymorphism-and-inheritance) – Clean code foundations and architectural design patterns.
+*  [**Privacy & Compliance**](https://ese-monday.hashnode.dev/managing-cookies-and-ensuring-user-privacy-compliance) – Navigating cookies and user data compliance in modern apps.
 
+*I am open to technical content writing contracts, developer documentation assignments, and global-remote backend roles.*
 
-###  Technical Focus & Expertise
-
-* **Languages & Backend:** Go, Rust, Node.js, TypeScript.
-* **Infrastructure:** Distributed systems, Rate limiting, Reverse proxies, Modular Monoliths.
-* **Web3 & Blockchain:** Smart Contract development (Solidity), Flare Network, Rootstock (RSK) ecosystem, and DeFi protocols.
-* **Architecture:** Designing robust APIs and payment systems with a focus on security and scalability.
-
-
-
-###  Currently Working On
-* **Web3 Adoption:** Designing regional adoption campaigns for blockchain technology across Africa.
-* **Modular Systems:** Implementing production-grade backend patterns using Prisma and PostgreSQL.
-
-
-
-### Technical Thought Leadership
-I write to demystify complex systems. Check out my latest insights:
-
-* [**Deep Dive: Intro to Web3 for Developers**](https://ese-monday.hashnode.dev/intro-to-web3js-a-deep-dive-for-web-developers) – Transitioning from Web2 to decentralized architecture.
-* [**Mastering OOP Principles**](https://ese-monday.hashnode.dev/a-comprehensive-guide-to-understanding-oop-principles-encapsulation-abstraction-polymorphism-and-inheritance) – Clean code and architectural foundations.
-* [**Privacy & Compliance**](https://ese-monday.hashnode.dev/managing-cookies-and-ensuring-user-privacy-compliance) – Navigating cookies and user data in modern apps.
+### Connect With Me
+[LinkedIn](https://www.linkedin.com/in/ese-monday) | [Twitter](https://twitter.com/EseMonday1)
 
 
 
-###  Connect With Me
- [LinkedIn](https://www.linkedin.com/in/ese-monday) | [Twitter](https://twitter.com/EseMonday1) | 
-
-
-
-<!---
-ESE-MONDAY/ESE-MONDAY is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
