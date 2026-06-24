@@ -6,10 +6,10 @@ I build infrastructure, then I build the path that gets other developers to unde
 ### things I've built or broken in interesting ways
 
 
-* Flare Africa — founded and run a Web3 developer community from zero. Grant-funded by the Flare Foundation, milestones hit, still growing.
-* EduChain SDK starter template — built after watching too many developers hit the same dependency conflict setting up HackQuest's SDK manually. Now they don't have to.
-* IRIS Agent Lifecycle SDK — onchain agent identity, storage, and reputation scoring. ERC-8004-inspired registry, 0G storage, Chainlink automation.
-* Nosen — in progress: a fully compliant onchain payroll system for the African workforce.
+* Flare Africa : founded and run a Web3 developer community from zero. Grant-funded by the Flare Foundation, milestones hit, still growing.
+* EduChain SDK starter template : built after watching too many developers hit the same dependency conflict setting up HackQuest's SDK manually. Now they don't have to.
+* IRIS Agent Lifecycle SDK : onchain agent identity, storage, and reputation scoring. ERC-8004-inspired registry, 0G storage, Chainlink automation.
+* Nosen: in progress: a fully compliant onchain payroll system for the African workforce.
 
 ### Technical Stack
 * **Backend & Languages:** Go (Golang), Node.js, TypeScript
