@@ -13,11 +13,6 @@ computing, the same privacy-preserving infrastructure AI teams now need for
 secure inference and data pipelines. KCNA certified (Kubernetes and Cloud 
 Native Associate). AWS AI & ML Scholar.
 
-## Research
-**buckley-leverett-fvm** — physics-informed machine learning (PINN) solver 
-for reservoir fluid displacement, validated against Welge tangent 
-construction. Working toward a NeurIPS Machine Learning for Physical 
-Sciences workshop submission.
 
 
 ## Things I've built
